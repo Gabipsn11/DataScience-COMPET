@@ -1,4 +1,7 @@
 pandas
-matplotlib
-requests
 openpyxl
+matplotlib
+seaborn
+jupyter
+pygments
+requests
